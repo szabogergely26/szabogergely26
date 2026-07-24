@@ -1,16 +1,24 @@
-## Hi there 👋
+# Szia, Gergely vagyok 👋
 
-<!--
-**szabogergely26/szabogergely26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saját, gyakorlati célú alkalmazásokat építek — a legtöbb projekt egy konkrét, valós problémára jött létre (nyilvántartás, monitorozás, kényelmi eszközök), Python / PySide6 alapokon.
 
-Here are some ideas to get you started:
+## 🚧 Aktuális projektek
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Projekt | Leírás | Státusz |
+|---|---|---|
+| [Filmek-Adatbazis](https://github.com/szabogergely26/Filmek-Adatbazis) | Filmnyilvántartó app, kártyás nézettel | 🟢 |
+| [penzugyi-naplo](https://github.com/szabogergely26/penzugyi-naplo) | Pénzügyi napló / nyomon követő | 🟢 |
+| [Retro-Game-Launcher](https://github.com/szabogergely26/Retro-Game-Launcher) | Retro játék launcher | 🟡 |
+| [Kijelzo](https://github.com/szabogergely26/Kijelzo) | Monitor/kijelző konfigurációs eszköz | 🟡 |
+
+*(A "Tervező App" jelenleg fejlesztés alatt, még nincs publikálva.)*
+
+## 🛠️ Amivel dolgozom
+
+- **Nyelv:** Python
+- **UI:** PySide6 (Qt)
+- **Eszközök:** VS Code, Git
+
+## 📫 Elérhetőség
+
+Nyugodtan nézz körül a repóim között, vagy nyiss egy issue-t, ha kérdésed van valamelyik projekttel kapcsolatban.

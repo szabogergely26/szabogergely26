@@ -12,7 +12,7 @@ Saját, gyakorlati célú alkalmazásokat építek — a legtöbb projekt egy ko
 | [penzugyi-naplo](https://github.com/szabogergely26/penzugyi-naplo) | Pénzügyi napló / nyomon követő | 🟡 |
 | [Retro-Game-Launcher](https://github.com/szabogergely26/Retro-Game-Launcher) | Retro játék launcher | 🟡 |
 | [Kijelzo](https://github.com/szabogergely26/Kijelzo) | Monitor/kijelző konfigurációs eszköz | 🟡 |
-| [Szoftvertervező] (https://github.com/szabogergely26/szoftver-tervezo) | Saját szoftverekhez kapcsolódó feladatok szervezése | 🟡 |
+| [Szoftvertervező](https://github.com/szabogergely26/szoftver-tervezo) | Saját szoftverekhez kapcsolódó feladatok szervezése | 🟡 |
 
 *(A "Tervező App" jelenleg fejlesztés alatt, még nincs publikálva.)*
 
@@ -42,7 +42,7 @@ I build practical, purpose-driven applications — most projects start from a re
 | [penzugyi-naplo](https://github.com/szabogergely26/penzugyi-naplo) | Personal finance journal / tracker | 🟡 |
 | [Retro-Game-Launcher](https://github.com/szabogergely26/Retro-Game-Launcher) | Retro game launcher | 🟡 |
 | [Kijelzo](https://github.com/szabogergely26/Kijelzo) | Monitor/display configuration tool | 🟡 |
-| [Szoftvertervezo] (https://github.com/szabogergely26/szoftver-tervezo) | Organizing tasks related to your own software | 🟡 |
+| [Szoftvertervezo](https://github.com/szabogergely26/szoftver-tervezo) | Organizing tasks related to your own software | 🟡 |
 
 *("Tervező App" is currently in development and not yet published.)*
 

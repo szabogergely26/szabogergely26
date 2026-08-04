@@ -4,6 +4,8 @@
 
 Saját, gyakorlati célú alkalmazásokat építek — a legtöbb projekt egy konkrét, valós problémára jött létre (nyilvántartás, monitorozás, kényelmi eszközök), Python / PySide6 alapokon.
 
+A projektek nagy részét AI (Claude) segítségével fejlesztem, de a tervezés, az irányítás és a végső ellenőrzés mindig az enyém.
+
 ## 🚧 Aktuális projektek
 
 | Projekt | Leírás | Státusz |

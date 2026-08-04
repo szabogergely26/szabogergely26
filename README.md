@@ -36,6 +36,8 @@ Hi, I'm Gergely 👋
 
 I build practical, purpose-driven applications — most projects start from a real, concrete need (record-keeping, monitoring, everyday convenience tools), built on Python / PySide6.
 
+Most of these projects are built with AI (Claude) assistance, but the design, direction, and final review are always mine.
+
 ### 🚧 Current projects
 
 | Project | Description | Status |

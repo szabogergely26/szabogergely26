@@ -24,6 +24,18 @@ A projektek nagy részét AI (Claude) segítségével fejlesztem, de a tervezés
 - **UI:** PySide6 (Qt)
 - **Eszközök:** VS Code, Git
 
+## 🪟 Windows
+
+A projektek elsődlegesen Linuxra készülnek. Windows alatt kész telepítő
+jelenleg nincs — a Microsoft Intelligens alkalmazáskezelése rendszeresen
+letiltja az aláíratlan programokat, ennek feloldása (fizetős digitális
+aláírás) egy hobbiprojektnél egyelőre nem éri meg. Aki mégis szeretné
+használni valamelyik alkalmazást Windows alatt, a forráskódból saját maga
+lefordíthatja — az adott repóban található windows_build.md ehhez ad
+lépésről lépésre útmutatót.
+
+
+
 ## 📫 Elérhetőség
 
 Nyugodtan nézz körül a repóim között, vagy nyiss egy issue-t, ha kérdésed van valamelyik projekttel kapcsolatban.
@@ -55,6 +67,20 @@ Most of these projects are built with AI (Claude) assistance, but the design, di
 - **Language:** Python
 - **UI:** PySide6 (Qt)
 - **Tools:** VS Code, Git
+
+
+## 🪟 Windows
+
+These projects are built primarily for Linux. There's currently no ready-made
+Windows installer — Windows' Smart App Control regularly blocks unsigned
+programs, and getting around that requires a paid code signing certificate,
+which isn't worth it for a hobby project right now. If you'd still like to
+use one of these apps on Windows, you can build it yourself from source —
+each repo includes a windows_build.md with step-by-step instructions.
+
+
+
+
 
 ### 📫 Contact
 

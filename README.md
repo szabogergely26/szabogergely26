@@ -15,6 +15,7 @@ A projektek nagy részét AI (Claude) segítségével fejlesztem, de a tervezés
 | [Retro-Game-Launcher](https://github.com/szabogergely26/Retro-Game-Launcher) | Retro játék launcher | 🟡 |
 | [Kijelzo](https://github.com/szabogergely26/Kijelzo) | Monitor/kijelző konfigurációs eszköz | 🟡 |
 | [Szoftvertervező](https://github.com/szabogergely26/szoftver-tervezo) | Saját szoftverekhez kapcsolódó feladatok szervezése | 🟡 |
+| [Easy Effects](https://github.com/szabogergely26/EasyEffects) | EasyEffects Widget KDE-hez  | 🟢 |
 
 *(A "Tervező App" jelenleg fejlesztés alatt, még nincs publikálva.)*
 
@@ -59,6 +60,7 @@ Most of these projects are built with AI (Claude) assistance, but the design, di
 | [Retro-Game-Launcher](https://github.com/szabogergely26/Retro-Game-Launcher) | Retro game launcher | 🟡 |
 | [Kijelzo](https://github.com/szabogergely26/Kijelzo) | Monitor/display configuration tool | 🟡 |
 | [Szoftvertervezo](https://github.com/szabogergely26/szoftver-tervezo) | Organizing tasks related to your own software | 🟡 |
+| [Easy Effects](https://github.com/szabogergely26/EasyEffects) | EasyEffects for KDE Desktop  | 🟢 |
 
 *("Tervező App" is currently in development and not yet published.)*
 
